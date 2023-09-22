@@ -1,0 +1,14 @@
+datasets
+datasets/YTB/2019/*
+datasets/YTB/2018/*
+datasets/Static/*
+datasets/DAVIS/*
+pretrain_models
+__MACOSX
+*.pyc
+.vscode
+result*
+*_job.sh
+*_submit.sh
+*.zip
+__*
